@@ -111,7 +111,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   border-radius: 50%;
-  padding: 25px;
+  padding: 30px;
   background-color: white;
   box-shadow: 0 1px 0 black;
   z-index: 3;
